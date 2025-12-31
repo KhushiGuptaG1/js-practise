@@ -12,13 +12,14 @@ const obj = {
 
 // console.log(obj['age'])
 
-const datingAppp = {
-id : "55df",
-name : "blushdate",
-feedback : "ultraPro",
-numberOfUsers : '20k'
-}
-console.log(datingAppp);
+// const datingAppp = {
+// id : "55df",
+// name : "blushdate",
+// feedback : "ultraPro",
+// numberOfUsers : '20k'
+// }
+// console.log(datingAppp);
 
-a = obj.concat(datingAppp)
-console.log(a)
+// a = obj.concat(datingAppp)
+// console.log(a)
+
